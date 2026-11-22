@@ -9,11 +9,11 @@ const data = {
     aboutTitle: 'Turning Ideas Into',
     aboutHighlight: 'Digital Reality',
     about:
-      'I’m a frontend developer based in Delhi with an MCA and BCA from Lovely Professional University. Since January 2022 I’ve been building production interfaces at Proveway, and I also work as a freelancer with Sun-Bean. I help founders, startups and small businesses go from idea to a polished website or mobile app — clean code, smooth user experience and on-time delivery.',
+      'I’m a frontend developer based in Delhi with an MCA and BCA from Lovely Professional University. Since January 2024 I’ve been building production interfaces at Proveway, and I also work as a freelancer with Sun-Bean. I help founders, startups and small businesses go from idea to a polished website or mobile app — clean code, smooth user experience and on-time delivery.',
     email: 'kaunainkasab@gmail.com',
     phone: '+91 80707 40009',
     location: 'Delhi, India',
-    careerStart: '2022-01-01',
+    careerStart: '2024-01-01',
     available: true,
     avatar: '', // e.g. '/avatar.png' — put the image in frontend/public
     resumeUrl: '/resume.pdf', // put your CV in frontend/public/resume.pdf
@@ -55,7 +55,7 @@ const data = {
   ],
 
   experience: [
-    { kind: 'work', title: 'Frontend Developer', org: 'Proveway', period: 'Jan 2022 – Present', badge: 'Full-time', icon: 'work' },
+    { kind: 'work', title: 'Frontend Developer', org: 'Proveway', period: 'Jan 2024 – Present', badge: 'Full-time', icon: 'work' },
     { kind: 'work', title: 'Freelance Developer', org: 'Sun-Bean', period: 'Ongoing', badge: 'Freelance', icon: 'freelance' },
     { kind: 'education', title: 'MCA — Master of Computer Applications', org: 'Lovely Professional University', period: 'Post-graduation', badge: 'Degree', icon: 'education' },
     { kind: 'education', title: 'BCA — Bachelor of Computer Applications', org: 'Lovely Professional University', period: 'Graduation', badge: 'Degree', icon: 'education' },
